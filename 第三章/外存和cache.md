@@ -85,3 +85,9 @@ D_r = r \times N = 100 \text{ 转/秒} \times 3454 \text{ B} = 345400 \text{ B/s
 ![](/image/3/外存/cp7.png)
 ![](/image/3/外存/cp8.png)
 ![](/image/3/外存/cp9.png)
+
+## 固态硬盘（SSD）
+固态硬盘是近些年的新考点，内容不多
+![](/image/3/外存/SSD1.png)
+![](/image/3/外存/SSD2.png)
+![](/image/3/外存/SSD3.png)
